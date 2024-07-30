@@ -4,5 +4,5 @@ metadata:
   name: "bs-mango-2"
 spec:
   type: service
-  owner: user:dariuszsobkowicz
+  owner: users
   lifecycle: experimental
