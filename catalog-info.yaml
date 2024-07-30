@@ -4,5 +4,5 @@ metadata:
   name: "bs-mango-2"
 spec:
   type: service
-  owner: visitors
+  owner: mend.io
   lifecycle: experimental
